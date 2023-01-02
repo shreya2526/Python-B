@@ -1,0 +1,1 @@
+print('after swapping 1st number= ',a,'b= ',b)

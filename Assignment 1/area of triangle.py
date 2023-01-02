@@ -1,0 +1,5 @@
+print('PROGRAM OF AREA OF TRIANGEL')
+h=float(input('enter the height: '))
+b=float(input('enter the base: '))
+area=float(0.5*h*b)
+print("area is: ",area)
